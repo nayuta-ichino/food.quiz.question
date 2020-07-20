@@ -70,8 +70,12 @@
 .answer{
   height: 40px;
   font-size: 20px;
-  margin-top: 100px;
+  margin-top: 150px;
   text-align: center;
+}
+
+.answer a{
+  font-size: 30px;
 }
 
 .info{
