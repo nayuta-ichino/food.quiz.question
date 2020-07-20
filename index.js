@@ -96,6 +96,7 @@ while (hintsIndex < hintsLength) {
 // });
 
 // 答えのURLを表示させる
-document.getElementById("food_url").addEventListener("click",()=>{
-  window.alert(document.getElementsByTagName("food_url").textContent = quiz[quizRandom].answer);
-});
+
+var target = document.getElementById("food_url")
+target.href = document.getElementsByTagName("food_url").textContent = quiz[quizRandom].answer;
+
