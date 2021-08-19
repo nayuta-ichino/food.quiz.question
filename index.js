@@ -34,7 +34,7 @@ const quiz = [
       "トマトペースト",
       "焼く"
       ],
-    answer : ""
+    answer : "https://www.meiji.co.jp/meiji-shokuiku/worldculture/recipe/america1/"
   }, {
     food_name :"セビーチェ",
     hints :[
